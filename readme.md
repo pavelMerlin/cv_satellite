@@ -4,7 +4,7 @@
  
 The task of creating a model that can recognise satellite images in different weather conditions was not fully accomplished. 
 From the results:
-1) SIFT algorithm was used as a baseline benchmark for key points detection and provision of image matching accuracy (`gaussian_algorinm.ipynb`).
+1) SIFT algorithm was used as a baseline benchmark for key points detection and provision of image matching accuracy (`preprocess.ipynb`).
 2) Pretrained model open for finetuning on stellite images was not found in given amount of time.
 3) Several deep learning models were found and applied to key point detection and image matching task. Unfortunately, they only provided inference examples; both architecture and traning remained hidden.
 4) Training classical ML models or CNN arcitecture models would be prefered if more time was provided.
