@@ -16,19 +16,32 @@ A model for recognising differences in buildings [Link](https://www.kaggle.com/c
 
 ## SIFT Algorithm： 
 <p align="center">
- <img width="500px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/match1.jpg" alt="qr"/>
+ <img width="700px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/sift1.jpg" alt="qr"/>
 </p>
 
 ## Image Recognition Model (Buildings) 
-<img alt="Image text" src="C:\Users\spark\OneDrive\Рабочий стол\123.jpg" width="500"/>
+<p align="center">
+ <img width="700px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/match3.jpg" alt="qr"/>
+</p>
 
 ## Image Recognition Model (Buildings) 
-<img alt="Image text" src="C:\Users\spark\OneDrive\Рабочий стол\555.jpg" width="500"/>
+<p align="center">
+ <img width="700px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/match4.jpg" alt="qr"/>
+</p>
 
 ## SIFT Algorithm:
-<img alt="Image text" src="C:\Users\spark\OneDrive\Рабочий стол\1231.jpg" width="500"/>
+<p align="center">
+ <img width="700px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/sift2.jpg" alt="qr"/>
+</p>
 
-Comparing the results of the SIFT algorithm and the model trained on buildings one can notice the inconsistencies. But to make sure of it, I have uploaded satellite photos. The result is extremely negative.
+## Image Recognition Model (Buildings) Good Example
+<p align="center">
+ <img width="700px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/match1.jpg" alt="qr"/>
+</p>
+
+Comparing the results of the SIFT algorithm and the model trained on buildings, you can see inconsistencies when not working with buildings. But to make sure of it, I uploaded the pictures. The result is extremely negative. 
+
+Unfortunately, I could not find a model for my task.
 
 ## Getting start:
 Python 3.7+ is recommended for running our code. 
