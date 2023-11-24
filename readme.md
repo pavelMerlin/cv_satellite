@@ -11,7 +11,9 @@ From the results:
 Below are the steps to create the model and analysis of existing analogues on the analysis of constructions.
 
 Main idea for preprocessing satellite photos: [Link](https://medium.datadriveninvestor.com/preparing-aerial-imagery-for-crop-classification-ce05d3601c68).
- 
+
+A model for recognising differences in buildings [Link](https://www.kaggle.com/code/cbeaud/imc-2022-kornia-score-0-725/notebook).
+
 ## SIFT Algorithm： 
 <img alt="Image text" height="300" src="C:\Users\spark\OneDrive\Рабочий стол\sift1.jpg" width="500"/>
 
