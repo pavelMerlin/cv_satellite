@@ -16,7 +16,7 @@ A model for recognising differences in buildings [Link](https://www.kaggle.com/c
 
 ## SIFT Algorithm： 
 <p align="center">
- <img width="200px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/match1.jpg" alt="qr"/>
+ <img width="500px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/match1.jpg" alt="qr"/>
 </p>
 
 ## Image Recognition Model (Buildings) 
