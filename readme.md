@@ -15,7 +15,9 @@ Main idea for preprocessing satellite photos: [Link](https://medium.datadrivenin
 A model for recognising differences in buildings [Link](https://www.kaggle.com/code/cbeaud/imc-2022-kornia-score-0-725/notebook).
 
 ## SIFT Algorithm： 
-<img alt="Image text" height="300" src="https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png" width="500"/>
+<p align="center">
+ <img width="200px" src="https://github.com/pavelMerlin/cv_satellite/blob/master/train/results/match1.jpg" alt="qr"/>
+</p>
 
 ## Image Recognition Model (Buildings) 
 <img alt="Image text" src="C:\Users\spark\OneDrive\Рабочий стол\123.jpg" width="500"/>
