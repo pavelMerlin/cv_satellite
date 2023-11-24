@@ -2,7 +2,7 @@
 
 ## Overview
  
-Unfortunately, the task of creating a model that can recognise satellite images in different weather conditions was not fully accomplished. 
+The task of creating a model that can recognise satellite images in different weather conditions was not fully accomplished. 
 From the results:
 1) SIFT algorithm for determining the coincidence of two photos for the subsequent use of the obtained accuracy in the dataset.
 2) Code structuring and pairing pictures with their matching accuracy.
